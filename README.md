@@ -74,7 +74,7 @@ The extension is already added to keycloak and its JAR package can be found in t
 
 1. **Create a New Role:**
    - Go to the Keycloak Admin Console.
-   - Navigate to `Roles` and create a role named `manage-2fa`.
+   - Navigate to `eales` and create a role named `manage-2fa`.
 
 ![Step 1 Create Role](docs/assets/step1_create_role.png)
 
